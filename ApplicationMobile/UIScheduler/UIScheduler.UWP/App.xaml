@@ -1,7 +1,7 @@
 ﻿<Application
-    x:Class="UIScheduler.UWP.App"
+    x:Class="WIScheduler.UIScheduler.UWP.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:UIScheduler.UWP">
+    xmlns:local="using:WIScheduler.UIScheduler.UWP">
 
 </Application>

@@ -13,7 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace UIScheduler.UWP
+namespace WIScheduler.UIScheduler.UWP
 {
     public sealed partial class MainPage
     {
