@@ -10,7 +10,7 @@ namespace WIScheduler.UIScheduler
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Views.User.LoginView();
         }
 
         protected override void OnStart()
